@@ -1,9 +1,37 @@
 body {
 	font-family: sans-serif;
+	font-size:14px;
+	font-weight:400;
+	background: #fff;
+	color: #000;
 }
 
 .level-1 {
-	font-size: 20px;
-	color: #000000;
-	background: #ffffff;
+
+}
+
+.level-2 {
+	padding-left:25px;
+}
+
+.case {
+	margin:50px 0px;
+
+}
+
+.case h1, .case h2 {
+	text-align:center;
+}
+
+.case-title {
+	font-weight:600;
+	font-size:20px;
+}
+
+.case-citation {
+	font-size:18px;
+}
+
+.case-date {
+	font-size:16px;
 }
